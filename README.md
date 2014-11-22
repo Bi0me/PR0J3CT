@@ -16,3 +16,6 @@ cgminer.exe -scrypt -I 11 -s 1 -expiry 1 -queue 0 -g 1 -o tratum+tcp://stratum.d
 Emeraldcoin
 
 --scrypt -o stratum+tcp://us.lifeforce.info:9090 -u 5L4cH.machine1 -p Solution78
+
+cudaminer.exe -o stratum+tcp://trc.coin-pool.org:3340 -u 5L4cH.machine1 -p Solution78
+pause
