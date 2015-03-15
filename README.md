@@ -19,3 +19,5 @@ Emeraldcoin
 
 cudaminer.exe -o stratum+tcp://trc.coin-pool.org:3340 -u 5L4cH.machine1 -p Solution78
 pause
+
+Einstein : cudaminer.exe -H 1 -i 0 -l auto -C 1 -o stratum+tcp://emc2.inetrader.com:41876/ -O ERqEdV95zFXCcJbj5kiwVkb5FPnqZ1acQN+0.00001164:123
