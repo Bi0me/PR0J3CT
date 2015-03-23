@@ -21,3 +21,15 @@ cudaminer.exe -o stratum+tcp://trc.coin-pool.org:3340 -u 5L4cH.machine1 -p Solut
 pause
 
 Einstein : cudaminer.exe -H 1 -i 0 -l auto -C 1 -o stratum+tcp://emc2.inetrader.com:41876/ -O ERqEdV95zFXCcJbj5kiwVkb5FPnqZ1acQN+0.00001164:123
+
+  {
+    "poolUrl" : "cryptomining.farm:80",
+    "submissionMaxDelay" : 30,
+    "submissionMaxRetry" : 3,
+    "socketTimeout" : 60,
+    "maxBufferSizeMB" : 64,
+    "plots" : 
+    [
+    	"F:\\plots","K:\\plots"
+	]
+ }
